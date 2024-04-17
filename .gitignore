@@ -1,6 +1,11 @@
 # files
 .DS_Store
+*.prototxt
+*.caffemodel
 
 # directories
+__pycache__
 .venv
+.idea
 archives
+data
